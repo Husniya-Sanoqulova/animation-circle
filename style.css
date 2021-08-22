@@ -1,0 +1,273 @@
+body {
+    background-color: rgb(106, 108, 240);
+    margin: 0;
+    padding: 0;
+    
+}
+.div {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 20%;
+    left: 0%;
+    
+}
+
+.div .box {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+
+
+.div2 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 20%;
+    left: 25%;
+    
+}
+
+.div2 .box2 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes divcha {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+
+
+.div3 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 20%;
+    left: 50%;
+    
+}
+
+.div3 .box3 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div3;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div3 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+
+.div4 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 20%;
+    left: 75%;
+    
+}
+
+.div4 .box4 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div4;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div4 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+.div5 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 60%;
+    left: 0%;
+    
+}
+
+.div5 .box5 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div5;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div5 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+.div6 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 60%;
+    left:25%;
+    
+}
+
+.div6 .box6 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div6;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div6 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+.div7 {
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 60%;
+    left: 50%;
+    
+}
+
+.div7 .box7 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 2px 2px 15px rgb(0, 4, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(107, 180, 243);
+    border-radius: 50%;
+    animation-name: div7;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div7 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+
+.div8 {
+    
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 0px 0px 50px blue; 
+    text-align: center;
+    top: 60%;
+    left: 75%;
+    
+}
+
+.div8 .box8 {
+    width: 300px;
+    height: 300px;
+    font-size: 80px;
+    text-shadow: 1px 1px  rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(174, 215, 241);
+    border: 2px solid rgb(0, 136, 255);
+    border-radius: 50%;
+    animation-name: div8;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite; 
+
+}
+
+
+@keyframes div8 {
+    0% {transform: scale(1.0);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1.0);}
+}
+ p {
+     text-shadow: 1px 1px  red;
+     color: rgb(0, 0, 0);
+    margin-top: 25%;
+    font-family: 'Monotype Corsiva', sans-serif;
+}
